@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://museumplanning.com/schemas/interactive-digital/experience-spec.json",
+  "title": "Interactive Digital Experience Spec",
+  "description": "Institution-scoped shell for scoping menu-funded Interactive Digital work. Content packages vary; form factor and zone come from Resiliency Planning Study.",
+  "type": "object",
+  "required": ["institution", "zone", "formFactor"],
+  "properties": {
+    "institution": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "studyReference": {
+          "type": "string",
+          "description": "Resiliency Planning Study or menu item ID"
+        }
+      }
+    },
+    "zone": {
+      "type": "object",
+      "required": ["label"],
+      "properties": {
+        "label": { "type": "string", "description": "Gallery or zone name from footprint analysis" },
+        "reactivation": {
+          "type": "string",
+          "enum": ["reactivate", "consolidate", "new-use", "retain"],
+          "description": "Footprint menu context"
+        },
+        "floorPlanRef": { "type": "string", "description": "Twin or drawing reference" }
+      }
+    },
+    "formFactor": {
+      "type": "string",
+      "enum": ["kiosk", "full-wall", "full-room"]
+    },
+    "interactionModel": {
+      "type": "object",
+      "properties": {
+        "catalogRef": {
+          "type": "string",
+          "description": "e.g. catalog/shared-ground.md or future entry slug"
+        },
+        "summary": { "type": "string" },
+        "participation": {
+          "type": "string",
+          "enum": ["touch", "presence", "social-geometry", "simulation", "mixed"]
+        }
+      }
+    },
+    "content": {
+      "type": "object",
+      "properties": {
+        "domains": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "e.g. nautical, local-history, science-flow"
+        },
+        "audiences": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Community or audience threads when plural"
+        },
+        "languages": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "archiveScale": { "type": "string" }
+      }
+    },
+    "install": {
+      "type": "object",
+      "properties": {
+        "offlineRequired": { "type": "boolean", "default": true },
+        "sensing": { "type": "string" },
+        "display": { "type": "string" },
+        "audio": { "type": "string" }
+      }
+    },
+    "capitalBand": {
+      "type": "object",
+      "properties": {
+        "note": { "type": "string" },
+        "rangeUsd": { "type": "string" }
+      }
+    }
+  }
+}
