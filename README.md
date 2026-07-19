@@ -23,7 +23,7 @@ Reference patterns for menu-funded work. **Not sold cold. Not shown publicly dur
 | # | Entry | Domain | Form factor | Status |
 |---|-------|--------|-------------|--------|
 | 1 | [Shared Ground](./catalog/shared-ground.md) | Humanities / political memory | Full-room | Demo exists |
-| 2 | [Flow field grid](./catalog/flow-field-grid.md) | Science | Full-wall / kiosk | Core POC · layers TBD |
+| 2 | [Flow field grid](./catalog/flow-field-grid.md) | Science | Full-wall / kiosk | Three.js POC in `reference/` |
 | 3 | [Local history · place](./catalog/local-history-place.md) | Local history | Full-wall / kiosk | Stub |
 | 4 | [Humanities field](./catalog/humanities-field.md) | Humanities (compare) | Kiosk / wall | Stub |
 

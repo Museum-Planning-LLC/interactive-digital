@@ -35,11 +35,11 @@ Distinct from [Shared Ground](./shared-ground.md): **simulation / exploration**,
 
 | Layer | Status |
 |-------|--------|
-| Core | **POC exists** — p5 WEBGL grid sim (~2024); not in this repo |
-| Participation | Sliders only · needs presets |
-| Navigation | Missing — attract, reset, idle timeout |
-| Presentation | Missing — default p5 aesthetic |
-| Install shell | Missing — fullscreen, offline, kiosk mode |
+| Core | **POC** — [reference/flow-field-grid-poc.html](../reference/flow-field-grid-poc.html) (Three.js port of 2024 p5 sketch) |
+| Participation | Sliders · presets TBD — see [flow-field-grid-next-steps.md](../docs/flow-field-grid-next-steps.md) |
+| Navigation | Orbit only · attract / reset TBD |
+| Presentation | Minimal dark UI panel |
+| Install shell | Missing — fullscreen, offline kiosk mode |
 
 ## When to reference (menu / conversation)
 
@@ -49,9 +49,13 @@ Distinct from [Shared Ground](./shared-ground.md): **simulation / exploration**,
 
 ## Demo
 
-**Internal only** during flush. No public URL in this catalog until wrapped in `reference/` with install shell.
+**Internal only** during flush.
 
-Origin: author POC sketch (p5.js WEBGL). Do not substitute or port without explicit authorization.
+| Context | Path |
+|---------|------|
+| Three.js POC (local) | [reference/flow-field-grid-poc.html](../reference/flow-field-grid-poc.html) |
+
+Origin: p5.js WEBGL sketch (~2024) → Three.js port for Interactive Digital reference stack.
 
 ## Related specs
 
