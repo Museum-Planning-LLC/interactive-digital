@@ -6,7 +6,10 @@ Internal POC demos for the Interactive Digital catalog. **Not sold cold. Not pub
 |------|----------|-------|
 | [flow-field-grid-poc.html](./flow-field-grid-poc.html) | [flow-field-grid](../catalog/flow-field-grid.md) | Three.js r128 · local `js/` |
 
-Open locally: serve or open via `file://` (OrbitControls prefers http — use `python3 -m http.server` from repo root if needed).
+**Internal link (GitHub Pages):**  
+https://museum-planning-llc.github.io/interactive-digital/reference/flow-field-grid-poc.html
+
+Local fallback: `python3 -m http.server` from repo root → `/reference/flow-field-grid-poc.html`
 
 ## Layer status (flow field POC)
 
