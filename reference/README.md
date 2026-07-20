@@ -9,6 +9,8 @@ Internal POC demos for the Interactive Digital catalog. **Not sold cold. Not pub
 **Internal link (GitHub Pages):**  
 https://museum-planning-llc.github.io/interactive-digital/reference/flow-field-grid-poc.html
 
+Setup (if 404 or Actions failed): [docs/github-pages-setup.md](../docs/github-pages-setup.md)
+
 Local fallback: `python3 -m http.server` from repo root → `/reference/flow-field-grid-poc.html`
 
 ## Layer status (flow field POC)
