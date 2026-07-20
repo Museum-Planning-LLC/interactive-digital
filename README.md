@@ -50,6 +50,9 @@ Source code for flow field: [`reference/`](./reference/). Deploy via **website-2
 
 ## Related
 
+- **Planning / study delivery:** [Digital-Twin](https://github.com/Museum-Planning-LLC/Digital-Twin)
+- **Website deploy:** [website-2.0](https://github.com/Museum-Planning-LLC/website-2.0) → museumplanning.com
+
 ## Principles
 
 [docs/principles.md](./docs/principles.md) — co-creation, shared authority, and why *Interactive Digital* is not framed as one-way “interpretation.”
