@@ -1,6 +1,6 @@
 # Flow field grid — prioritized next steps
 
-**Interactive Digital · science template · internal POC**
+**Digital Exhibits · science template · internal POC**
 
 Current demo: [reference/flow-field-grid-poc.html](../reference/flow-field-grid-poc.html)
 

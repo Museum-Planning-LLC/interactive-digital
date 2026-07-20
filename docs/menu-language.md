@@ -1,4 +1,4 @@
-# Menu language — Interactive Digital
+# Menu language — Digital Exhibits
 
 **Museum Planning LLC** · internal · paste into Modular Implementation Menu templates
 
@@ -8,7 +8,7 @@ Use only **after** a Resiliency Planning Study, when footprint analysis supports
 
 ## Menu block (template)
 
-**Item title:** Interactive Digital — [kiosk | full-wall | full-room] · [Zone name / gallery ID]
+**Item title:** Digital Exhibits — [kiosk | full-wall | full-room] · [Zone name / gallery ID]
 
 **Scope:** Participatory digital environment for [zone], scoped from Study findings on footprint, circulation, and reactivation. Institution content treated as material for visitor participation — not a single fixed authoritative narrative.
 
@@ -21,7 +21,7 @@ Use only **after** a Resiliency Planning Study, when footprint analysis supports
 
 **Optional:** light post-launch support (updates, health checks) — scoped separately; not a required subscription.
 
-**Reference build (on request):** [Shared Ground](https://museumplanning.com/immersive-mexico/en/shared-ground.html) — full-room example, plural memory / shared meaning. Other themes use the same Interactive Digital delivery with different content and interaction models.
+**Reference build (on request):** [Shared Ground](https://museumplanning.com/immersive-mexico/en/shared-ground.html) — full-room example, plural memory / shared meaning. Other themes use the same Digital Exhibits delivery with different content and interaction models.
 
 **Repository:** [github.com/Museum-Planning-LLC/digital-exhibits](https://github.com/Museum-Planning-LLC/digital-exhibits)
 
@@ -35,7 +35,7 @@ Use only **after** a Resiliency Planning Study, when footprint analysis supports
 
 | Use | Avoid (as category lead) |
 |-----|---------------------------|
-| Interactive Digital | Interpretive exhibit (as your label) |
+| Digital Exhibits | Interpretive exhibit (as your label) |
 | Participatory digital environment | AI exhibit platform |
 | Shared meaning / co-creation (when accurate) | We interpret your collection |
 | Form factor: kiosk, full-wall, full-room | Product subscription |
@@ -44,4 +44,4 @@ Use only **after** a Resiliency Planning Study, when footprint analysis supports
 
 ## One sentence (conversation)
 
-> When the menu funds reactivating this gallery, we can scope **Interactive Digital** there — kiosk, full-wall, or full-room — using your content; Shared Ground is one full-room example when the subject is shared ground and different memories.
+> When the menu funds reactivating this gallery, we can scope **Digital Exhibits** there — kiosk, full-wall, or full-room — using your content; Shared Ground is one full-room example when the subject is shared ground and different memories.

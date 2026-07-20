@@ -1,6 +1,6 @@
 # Reference builds
 
-Internal POC demos for the Interactive Digital catalog. **Not sold cold.**
+Internal POC demos for the Digital Exhibits catalog. **Not sold cold.**
 
 | File | Template | Stack |
 |------|----------|-------|

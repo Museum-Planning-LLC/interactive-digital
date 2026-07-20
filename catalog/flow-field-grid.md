@@ -1,6 +1,6 @@
 # Flow field grid
 
-**Catalog entry** · Interactive Digital · **science template** · full-wall or kiosk
+**Catalog entry** · Digital Exhibits · **science template** · full-wall or kiosk
 
 **Status:** Internal POC · not floor-ready · not client-facing during 90-day flush
 
@@ -44,7 +44,7 @@ Distinct from [Shared Ground](./shared-ground.md): **simulation / exploration**,
 ## When to reference (menu / conversation)
 
 - Science museum or natural history **process** gallery
-- Menu item funds **Interactive Digital — full-wall** for a repositioned science zone
+- Menu item funds **Digital Exhibits — full-wall** for a repositioned science zone
 - Buyer asks for hands-on **exploration**, not film or linear quiz
 
 ## Demo
@@ -56,7 +56,7 @@ Distinct from [Shared Ground](./shared-ground.md): **simulation / exploration**,
 | Three.js POC (live) | https://museumplanning.com/digital-exhibits/flow-field-grid.html |
 | Three.js POC (repo) | [reference/flow-field-grid-poc.html](../reference/flow-field-grid-poc.html) |
 
-Origin: p5.js WEBGL sketch (~2024) → Three.js port for Interactive Digital reference stack.
+Origin: p5.js WEBGL sketch (~2024) → Three.js port for Digital Exhibits reference stack.
 
 ## Related specs
 
@@ -65,4 +65,4 @@ Origin: p5.js WEBGL sketch (~2024) → Three.js port for Interactive Digital ref
 
 ## Menu line (short)
 
-**Interactive Digital — full-wall · flow-field pattern · [Zone]** — participatory simulation environment; scoped from study; internal POC.
+**Digital Exhibits — full-wall · flow-field pattern · [Zone]** — participatory simulation environment; scoped from study; internal POC.

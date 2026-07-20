@@ -1,10 +1,10 @@
-# Principles — Interactive Digital
+# Principles — Digital Exhibits
 
 **Museum Planning LLC** · internal
 
-## What Interactive Digital is
+## What Digital Exhibits is
 
-**Interactive Digital** names a category of museum-scale digital experiences:
+**Digital Exhibits** names a category of museum-scale digital experiences:
 
 - Standalone **kiosk**
 - **Full-wall** immersive
@@ -16,7 +16,7 @@ They are **interactive** (visitor agency, spatial or touch participation) and **
 
 We do not lead with **interpretation** as the category name. In common museum usage, *interpretation* often implies the institution holds authority and translates meaning **for** the visitor — a one-way relationship that can function as gatekeeping.
 
-Interactive Digital is framed for **co-creation and shared authority** where the experience design allows it:
+Digital Exhibits is framed for **co-creation and shared authority** where the experience design allows it:
 
 - Institution supplies **material** (archives, objects, narratives, data) — not a single closed message
 - Visitors **participate** through presence, movement, choice, or manipulation
@@ -26,15 +26,15 @@ Not every entry resolves conflict or merges narratives. Some entries foreground 
 
 ## Shared Ground as proof case
 
-[Shared Ground](../catalog/shared-ground.md) demonstrates full-room Interactive Digital when **two communities share the same ground and remember it differently**. The system surfaces convergence from **relationship between bodies in space**, not assignment of content by identity. It is one catalog entry — not the name of the whole repository.
+[Shared Ground](../catalog/shared-ground.md) demonstrates full-room Digital Exhibits when **two communities share the same ground and remember it differently**. The system surfaces convergence from **relationship between bodies in space**, not assignment of content by identity. It is one catalog entry — not the name of the whole repository.
 
 ## Relationship to resiliency planning
 
-Interactive Digital is **optional Phase 2 / menu-funded work**:
+Digital Exhibits is **optional Phase 2 / menu-funded work**:
 
 1. **Resiliency Planning Study** maps footprint and phased capital
 2. **Modular Implementation Menu** lists discrete fundable items
-3. When a zone is **reactivated or consolidated**, a menu line may specify Interactive Digital for that space
+3. When a zone is **reactivated or consolidated**, a menu line may specify Digital Exhibits for that space
 4. This repo holds **schemas, specs, and reference builds** used in delivery — not the Study itself
 
 ## Delivery ethics (short)

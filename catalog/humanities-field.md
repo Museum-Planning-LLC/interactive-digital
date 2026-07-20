@@ -1,6 +1,6 @@
 # Humanities field
 
-**Catalog entry** · Interactive Digital · **humanities template (non-convergence)** · kiosk or full-wall
+**Catalog entry** · Digital Exhibits · **humanities template (non-convergence)** · kiosk or full-wall
 
 **Status:** Catalog stub · core not built · 90-day flush target (weeks 10–12)
 
@@ -60,4 +60,4 @@ None during flush. Do not clone Shared Ground visuals or code.
 
 ## Menu line (short)
 
-**Interactive Digital — kiosk · humanities field pattern · [Zone]** — participatory comparison environment; scoped from study.
+**Digital Exhibits — kiosk · humanities field pattern · [Zone]** — participatory comparison environment; scoped from study.

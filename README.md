@@ -1,8 +1,8 @@
-# Interactive Digital
+# Digital Exhibits
 
 **Museum Planning LLC** · delivery repository
 
-Repository of **Interactive Digital** museum experiences — standalone kiosk, full-wall immersive, and full-room immersive — built for participatory use: institution content as material, not a single authored verdict.
+Repository of **Digital Exhibits** museum experiences — standalone kiosk, full-wall immersive, and full-room immersive — built for participatory use: institution content as material, not a single authored verdict.
 
 This repo is **downstream of planning**, not a product sold cold. It supports the [Museum & Cultural Resiliency Planning Study](https://museumplanning.com/museum-cultural-resiliency-planning.html): when a **Modular Implementation Menu** item funds digital work in a repositioned or reactivated gallery, implementations are scoped and built from this library.
 
@@ -42,7 +42,7 @@ reference/      Install shells and wrapped demos (as builds mature)
 
 | Template | URL |
 |----------|-----|
-| **Interactive Digital index** | https://museumplanning.com/digital-exhibits/ |
+| **Digital Exhibits index** | https://museumplanning.com/digital-exhibits/ |
 | **Flow field grid** | https://museumplanning.com/digital-exhibits/flow-field-grid.html |
 | **Shared Ground** | https://museumplanning.com/immersive-mexico/en/shared-ground.html |
 
@@ -55,7 +55,7 @@ Source code for flow field: [`reference/`](./reference/). Deploy via **website-2
 
 ## Principles
 
-[docs/principles.md](./docs/principles.md) — co-creation, shared authority, and why *Interactive Digital* is not framed as one-way “interpretation.”
+[docs/principles.md](./docs/principles.md) — co-creation, shared authority, and why *Digital Exhibits* is not framed as one-way “interpretation.”
 
 ## Menu language (internal)
 
@@ -63,4 +63,4 @@ Source code for flow field: [`reference/`](./reference/). Deploy via **website-2
 
 ---
 
-*Internal delivery repo. Sell the Resiliency Planning Study; offer Interactive Digital only when a client funds a specific menu item.*
+*Internal delivery repo. Sell the Resiliency Planning Study; offer Digital Exhibits only when a client funds a specific menu item.*

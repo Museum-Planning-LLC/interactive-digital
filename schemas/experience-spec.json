@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://museumplanning.com/schemas/digital-exhibits/experience-spec.json",
-  "title": "Interactive Digital Experience Spec",
-  "description": "Institution-scoped shell for scoping menu-funded Interactive Digital work. Content packages vary; form factor and zone come from Resiliency Planning Study.",
+  "title": "Digital Exhibits Experience Spec",
+  "description": "Institution-scoped shell for scoping menu-funded Digital Exhibits work. Content packages vary; form factor and zone come from Resiliency Planning Study.",
   "type": "object",
   "required": ["institution", "zone", "formFactor"],
   "properties": {

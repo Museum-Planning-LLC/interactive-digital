@@ -1,6 +1,6 @@
 # Example experience specs
 
-Institution-neutral shells for scoping menu-funded Interactive Digital work. Validate against [../experience-spec.json](../experience-spec.json).
+Institution-neutral shells for scoping menu-funded Digital Exhibits work. Validate against [../experience-spec.json](../experience-spec.json).
 
 | File | Catalog template |
 |------|------------------|

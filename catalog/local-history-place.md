@@ -1,6 +1,6 @@
 # Local history · place
 
-**Catalog entry** · Interactive Digital · **local history template** · full-wall or kiosk
+**Catalog entry** · Digital Exhibits · **local history template** · full-wall or kiosk
 
 **Status:** Catalog stub · core not built · 90-day flush target (weeks 7–9)
 
@@ -58,4 +58,4 @@ None during flush. McDonough / C.O. Polk material informs Shared Ground archive 
 
 ## Menu line (short)
 
-**Interactive Digital — full-wall · local history · place pattern · [Zone]** — participatory place-based archive; scoped from study.
+**Digital Exhibits — full-wall · local history · place pattern · [Zone]** — participatory place-based archive; scoped from study.

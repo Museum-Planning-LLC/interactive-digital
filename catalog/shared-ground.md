@@ -1,10 +1,10 @@
 # Shared Ground
 
-**Catalog entry** · Interactive Digital · **full-room immersive**
+**Catalog entry** · Digital Exhibits · **full-room immersive**
 
 ## Summary
 
-Full-room Interactive Digital experience: **the same place, different stories**. Multiple narratives in one space — moving apart, the archive diverges; moving together, material that belongs to **both** histories at once can surface. Not a history lesson; does not assign content by visitor identity.
+Full-room Digital Exhibits experience: **the same place, different stories**. Multiple narratives in one space — moving apart, the archive diverges; moving together, material that belongs to **both** histories at once can surface. Not a history lesson; does not assign content by visitor identity.
 
 ## Interaction model
 
@@ -52,4 +52,4 @@ In conversation with spatial interaction works (e.g. Snibbe *Boundary Functions*
 
 ## Menu line (short)
 
-**Interactive Digital — full-room · Shared Ground pattern · [Zone]** — participatory plural-memory environment; local archive; demo on request.
+**Digital Exhibits — full-room · Shared Ground pattern · [Zone]** — participatory plural-memory environment; local archive; demo on request.

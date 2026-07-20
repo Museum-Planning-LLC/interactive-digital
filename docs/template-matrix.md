@@ -1,8 +1,8 @@
-# Template matrix — four Interactive Digital archetypes
+# Template matrix — four Digital Exhibits archetypes
 
 **Museum Planning LLC** · internal · 90-day repository flush
 
-These four rows are **delivery templates**, not products. Not sold cold. Not shown publicly during the flush period. Each proves a distinct **participation model** under the same Interactive Digital category (kiosk · full-wall · full-room).
+These four rows are **delivery templates**, not products. Not sold cold. Not shown publicly during the flush period. Each proves a distinct **participation model** under the same Digital Exhibits category (kiosk · full-wall · full-room).
 
 Compare: [form-factors.md](./form-factors.md) · [principles.md](./principles.md)
 
@@ -52,7 +52,7 @@ Use the same honest status in every catalog entry:
 
 Do not name templates in cold outreach. On the Implementation Menu:
 
-**Interactive Digital — [form factor] · [zone]** — participatory digital environment; pattern from internal catalog when scoped.
+**Digital Exhibits — [form factor] · [zone]** — participatory digital environment; pattern from internal catalog when scoped.
 
 See [menu-language.md](./menu-language.md).
 

@@ -1,4 +1,4 @@
-# Form factors — Interactive Digital
+# Form factors — Digital Exhibits
 
 **Museum Planning LLC** · internal
 
@@ -20,7 +20,7 @@ Three scalable tiers. Menu items and cost bands attach to **form factor + zone +
 - Enclosure durability for public hours
 - Content refresh without full room re-install
 
-**Rough capital band (indicative):** lower tier of interactive digital; hardware + shell + content package varies widely.
+**Rough capital band (indicative):** lower tier of digital exhibits; hardware + shell + content package varies widely.
 
 ---
 
