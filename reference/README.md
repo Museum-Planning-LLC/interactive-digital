@@ -9,7 +9,7 @@ Internal POC demos for the Interactive Digital catalog. **Not sold cold. Not pub
 **Internal link (GitHub Pages):**  
 https://museum-planning-llc.github.io/interactive-digital/reference/flow-field-grid-poc.html
 
-Setup (if 404 or Actions failed): [docs/github-pages-setup.md](../docs/github-pages-setup.md)
+Setup (if 404): [docs/github-pages-setup.md](../docs/github-pages-setup.md) — org Actions are read-only; publish with `_scripts/publish-gh-pages.sh` from your Mac.
 
 Local fallback: `python3 -m http.server` from repo root → `/reference/flow-field-grid-poc.html`
 

@@ -6,24 +6,27 @@ Static POCs only. Not public marketing (`noindex` on index).
 
 https://museum-planning-llc.github.io/interactive-digital/reference/flow-field-grid-poc.html
 
-## Setup (after `pages-build-deployment` fails on `main`)
+---
 
-The built-in **pages build and deployment** job often fails on org repos (token permissions). Use the **`gh-pages` branch** instead.
+## If “Read and write permissions” is grayed out
 
-### 1. Workflow permissions
+**Museum-Planning-LLC org policy** locks Actions to **read-only**. Repo workflows cannot push branches or deploy Pages. This is normal — fix with a **local publish** (below), not Actions settings.
 
-**Settings → Actions → General → Workflow permissions**
+Org owners can optionally change: **Organization Settings → Actions → General → Workflow permissions** → allow read/write or let repos override.
 
-- Select **Read and write permissions**
-- Save
+---
 
-### 2. Run the publish workflow
+## Publish from your Mac (recommended)
 
-Push to `main` (or **Actions → Publish internal reference to gh-pages → Run workflow**).
+No Actions token needed — uses your normal `git push` access.
 
-Wait for a **green** run. It creates/updates the `gh-pages` branch with only `index.html`, `.nojekyll`, and `reference/`.
+```bash
+cd ~/Documents/GitHub/interactive-digital
+chmod +x _scripts/publish-gh-pages.sh
+./_scripts/publish-gh-pages.sh
+```
 
-### 3. Point Pages at `gh-pages` (not `main`)
+Then in GitHub:
 
 **Settings → Pages**
 
@@ -33,15 +36,15 @@ Wait for a **green** run. It creates/updates the `gh-pages` branch with only `in
 | Branch | **`gh-pages`** |
 | Folder | **`/ (root)`** |
 
-Save. Ignore / disable deploy from **`main`** — that stops the failing `pages-build-deployment` runs.
+Do **not** deploy from **`main`** (that triggers the failing `pages-build-deployment` job).
 
-Deploy completes in ~1–2 minutes after the branch switch.
+Wait ~1–2 minutes, then open the target URL above.
 
-### 4. Verify
+Re-run the script whenever `reference/` changes.
 
-Open the target URL above. Hard refresh if needed.
+---
 
-## Local fallback
+## Local preview (no Pages)
 
 ```bash
 cd ~/Documents/GitHub/interactive-digital
@@ -49,11 +52,13 @@ python3 -m http.server 8080
 # http://localhost:8080/reference/flow-field-grid-poc.html
 ```
 
+---
+
 ## Troubleshooting
 
 | Symptom | Fix |
 |---------|-----|
-| `pages-build-deployment` keeps failing on `main` | Switch Pages source to **`gh-pages`** (step 3) |
-| Publish workflow fails on permissions | Step 1 — read/write workflow permissions |
-| 404 after green publish | Confirm Pages branch is **`gh-pages`**, not `main` |
-| Org policy error | Org **Settings → Actions** — allow workflows for this repo |
+| Read/write grayed out in repo Settings | Org lock — use **`_scripts/publish-gh-pages.sh`** |
+| `pages-build-deployment` fails on `main` | Switch Pages source to **`gh-pages`**, not `main` |
+| Publish workflow fails in Actions | Expected under read-only org — ignore; use local script |
+| 404 after push | Confirm Pages branch is **`gh-pages`**; hard refresh |
